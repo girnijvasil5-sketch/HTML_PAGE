@@ -1,0 +1,20 @@
+.first_class{
+    color: red;
+}
+
+.second_class{
+    background-color: lightblue;
+}
+
+.text{
+    border: 1px solid black;
+}
+
+
+#phone{
+    opacity: 0.5;
+}
+
+img{
+    width: 300px;
+}
